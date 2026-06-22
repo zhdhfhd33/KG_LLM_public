@@ -1,0 +1,7 @@
+streamlit==1.32.2
+llama-index==0.10.27
+llama-index-llms-openai==0.1.15
+llama-index-embeddings-openai==0.1.7
+ragas==0.1.7
+datasets==2.18.0
+pandas==2.2.1
